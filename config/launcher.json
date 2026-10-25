@@ -1,0 +1,17 @@
+{
+	"clientVersion": "15.00.249ccc-ultra-1",
+	"launcherVersion": "1.2",
+	"launcherUrl": "https://github.com/Naroxx/xxxotsultra/releases/download/launcher-1.2/XXXOTSULTRA-Launcher.zip",
+	"launcherSha256": "a20305a3cca841a9fe2eca4b2ace5cc2f7e1dcfa6bf32fd884e26c8f868556bc",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{ "name": "assets" },
+		{ "name": "bin" },
+		{ "name": "storeimages" },
+		{ "name": "sounds" }
+	],
+	"clientFolder": "XXXOTSULTRA",
+	"newClientUrl": "https://github.com/Naroxx/xxxotsultra/releases/download/client-15.00.249ccc-ultra-1/XXXOTSULTRA-client.zip",
+	"clientSha256": "1417dbcbe32f32c7e0ba8c03b528c21e51f9e686cae98017edcb2d9a20f8e937",
+	"clientExecutable": "XXXOTSULTRA.exe"
+}
