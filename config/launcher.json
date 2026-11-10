@@ -1,5 +1,5 @@
 {
-	"clientVersion": "15.00.249ccc-ultra-7",
+	"clientVersion": "15.00.249ccc-ultra-8",
 	"launcherVersion": "1.3",
 	"launcherUrl": "https://github.com/Naroxx/xxxotsultra/releases/download/launcher-1.3/XXXOTSULTRA-Launcher.zip",
 	"launcherSha256": "74cdc05f77b04ea485038284337b96fe8d9b320914fc778c1768fca9e1552808",
@@ -19,7 +19,7 @@
 		}
 	],
 	"clientFolder": "XXXOTSULTRA",
-	"newClientUrl": "https://github.com/Naroxx/xxxotsultra/releases/download/client-15.00.249ccc-ultra-7/XXXOTSULTRA-client.zip",
-	"clientSha256": "23fc254b941b35b073fe129afbf6863383a8f574468a445e5cc1fcf8ea46c618",
+	"newClientUrl": "https://github.com/Naroxx/xxxotsultra/releases/download/client-15.00.249ccc-ultra-8/XXXOTSULTRA-client.zip",
+	"clientSha256": "e257b864eb68f544e5241d701e966bc5c7d6fb4063515121ee03ab9143afcd75",
 	"clientExecutable": "XXXOTSULTRA.exe"
 }
